@@ -27,7 +27,7 @@ The focus was on **translating financial formulas into Power BI DAX** and creati
 
 ### **1 Contribution Margin Accounting (Overview Page)**
 This is the **summary page** of the report.
-- Displays high-level KPIs: **Total Revenue (€10.92M)**, **Variable Cost (€5.62M)**, **Fixed Cost (€2.54M)**, **Contribution Margin (€5.30M)**, and **EBIT (€2.75M)**.  
+- Displays high-level KPIs: **Total Revenue**, **Variable Cost**, **Fixed Cost**, **Contribution Margin**, and **EBIT**.  
 - The **line chart** compares Variable vs Fixed costs monthly, showing cost fluctuations and control efficiency.
 - The **bar chart** highlights the **Top 10 Ordered Products** — helping identify the most frequently sold items contributing to total revenue.
 
